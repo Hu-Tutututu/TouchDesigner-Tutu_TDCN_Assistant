@@ -15,9 +15,9 @@
 在 OP Create Dialog 中，保留原有英文名称的同时附加中文译名，以中英对照的形式呈现，方便用户在熟悉英文术语的同时理解元件含义。
 
 示例：
-- `Noise` → `Noise 噪波`
-- `Blur` → `Blur 模糊`
-- `Math` → `Math 数学运算`
+- `Noise` → `Noise→噪波`
+- `Blur` → `Blur→模糊`
+- `Math` → `Math→数学运算`
 
 ![OP创建对话框截图](images/feature_op_dialog.png)
 
