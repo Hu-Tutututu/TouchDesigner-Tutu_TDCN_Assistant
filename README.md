@@ -10,7 +10,7 @@
 ### 1. 顶部菜单本地化
 对 TouchDesigner 界面顶部的菜单与设置项进行中文本地化，方便用户快速找到所需功能，无需逐一对照英文文档。
 
-![顶部菜单本地化截图](img/feature_menu.png)
+![顶部菜单本地化截图](images/feature_menu.png)
 
 ### 2. OP 创建对话框（中英双语辅助）
 在 OP Create Dialog 中，保留原有英文名称的同时附加中文译名，以中英对照的形式呈现，方便用户在熟悉英文术语的同时理解元件含义。
@@ -20,12 +20,12 @@
 - `Blur` → `Blur 模糊`
 - `Math` → `Math 数学运算`
 
-![OP创建对话框截图](img/feature_op_dialog.png)
+![OP创建对话框截图](images/feature_op_dialog.png)
 
 ### 3. OP 详细介绍本地化
 对 OP Create Dialog 底部的详细说明文字进行本地化，帮助用户更深入地理解每个 OP 的作用与适用场景，学习效率大幅提升。
 
-![OP详细介绍截图](img/feature_op_desc.png)
+![OP详细介绍截图](images/feature_op_desc.png)
 
 ---
 
@@ -40,11 +40,11 @@
 
 安装完成后，按下快捷键 `Alt + Shift + V` 可查看当前 TouchDesigner 的版本号。
 
-![查看版本号截图](img/version_check.png)
+![查看版本号截图](images/version_check.png)
 
 随后对照插件说明（见下方截图/文档）确认所需插件版本：
 
-![版本对照截图](img/version.png)
+![版本对照截图](images/version.png)
 
 **第三步：下载对应版本的插件**
 
